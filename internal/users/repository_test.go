@@ -7,8 +7,8 @@ import (
 	"log"
 	"testing"
 
-	"bitsden.com/go-rooms/internal/testutils"
 	_ "github.com/golang-migrate/migrate/v4/source/file"
+	"github.com/mramsden/go-rooms/internal/testutils"
 	"github.com/testcontainers/testcontainers-go"
 
 	_ "github.com/lib/pq"

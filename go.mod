@@ -1,4 +1,4 @@
-module bitsden.com/go-rooms
+module github.com/mramsden/go-rooms
 
 go 1.17
 
